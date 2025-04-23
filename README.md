@@ -76,7 +76,10 @@ The initial scope focused on a robust CRUD module for managing teacher profiles,
 Internal project for ICC School. Contact project lead for any enhancements or suggestions.
 
 ## 🪪 License
-Internal use only. Not licensed for public distribution.
+⚠️ License Notice  
+This repository was originally published under the MIT License.  
+As of April 22, 2025, the license has been changed to **CC BY-NC-ND 4.0**.  
+See the LICENSE file for details.
 
 ## 🔗 Additional Resources
 - **Further Documentation:** Available on request.
