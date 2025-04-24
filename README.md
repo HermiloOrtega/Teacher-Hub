@@ -7,6 +7,15 @@ It became the foundational project of my proposed startup idea, **M&M System**, 
 
 The app replaced all paper-based teacher documentation with a fully interactive, data-rich, and secure desktop experience. Hosted internally at ICC School, it significantly reduced administrative workload and improved access control and data accuracy.
 
+### Loading page
+![Screenshot](./assets/2.png) <!-- Replace with your image path -->
+
+### Home Page
+![Screenshot](./assets/4.png) <!-- Replace with your image path -->
+
+### New Teacher
+![Screenshot](./assets/7.png) <!-- Replace with your image path -->
+
 ## 💡 Idea & Concept
 TeacherHub was born from my direct experience with administrative inefficiencies during my internship. The goal was to:
 - Build a high-fidelity, scalable record management system.
