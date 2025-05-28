@@ -13,6 +13,7 @@ TeacherHub centralizes teacher personal data, professional experience, and acade
 
 ### New Teacher
 ![Screenshot](./assets/7.jpg)
+
 ---
 
 ## 💡 Idea & Concept
